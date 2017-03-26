@@ -202,5 +202,3 @@ double average(vector<double> &v, int s) {
     return avg;
 }
 
-
-
